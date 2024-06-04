@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"interview-quiz-hesueo/quiz5"
+	"interview-quiz-heshuo/quiz5"
 )
 
 func main() {
